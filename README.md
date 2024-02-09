@@ -13,7 +13,7 @@
 ## Discord Server
 
 [![Join us on Discord](https://invidget.switchblade.xyz/xi)](https://discord.gg/xi)
-
+https://congenial-eureka-9776q46gxgx92p4gr-8080.app.github.dev/
 ## Setup
 
 ```sh
